@@ -1,7 +1,8 @@
 # A3 HashMap from Scratch
+This is a Java program that is a HashMap from scratch.
 
 # A4 CacheLFU using PriorityQueue from Scratch
-
+This is a Java programt that is a priority queue from scratch, simuating how a CacheLFU on your operating system might work.
 
 # A5 Dijkastra's Algorithm
 
